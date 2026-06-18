@@ -6,6 +6,7 @@ Building real projects while still in university.
 ---
 
 ## 🔨 What I'm Currently Building
+- **Instagram Outreach Manager** — Chrome Extension (MV3, Service Workers, Content Scripts)
 - **Load Shedding Scheduler App** — Flutter + Firebase + Push Notifications (Pakistan)
 - **C++ Game Projects** — Metal Slug & Tumblepop clones built from scratch
 
@@ -15,7 +16,9 @@ Building real projects while still in university.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ## 📌 Featured Project
 ### [Metal Slug Clone — C++](https://github.com/Sarim-devs/metal-slug-cpp)
 2D side-scrolling action game built from scratch in C++ with SFML.  
@@ -25,4 +28,4 @@ Enemy AI, Boss AI, terrain generation, in-game dev terminal, full audio.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarimdev)
 
 ---
-*Currently: Surviving finals. Back to shipping after June 4th.* 🎯
+*Currently: Shipping tools. Open to freelance work.* 🎯
