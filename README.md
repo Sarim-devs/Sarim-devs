@@ -13,6 +13,7 @@ Building real projects while still in university.
 # 🧪 Future / Long-Term Projects
 - **Project Carl** – Narrative-driven Hotline Miami-inspired action game featuring original character Carl. Early development.
 <img width="1284" height="1265" alt="cosa-significa-nah-id-drill-v0-0kva0kmrv6ag1" src="https://github.com/user-attachments/assets/b00e10d5-5e29-4c81-8514-8d7467a5dac2" />
+
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat&logo=sfml&logoColor=white)
