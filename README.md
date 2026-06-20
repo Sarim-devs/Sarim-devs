@@ -26,7 +26,7 @@ Building real projects while still in university.
 2D side-scrolling action game built from scratch in C++ with SFML.
 Enemy AI, Boss AI, terrain generation, in-game dev terminal, full audio.
 
-### Lead Discovery Engine — Chrome Extension (https://github.com/Sarim-devs/lead-discovery-engine-showcase)
+### [Lead Discovery Engine — Chrome Extension](https://github.com/Sarim-devs/lead-discovery-engine-showcase)
 A local-first prospect research tool — a Manifest V3 Chrome extension under 1MB
 with a built-in CRM dashboard, a five-dimension relevance scoring engine, and
 CSV/Markdown export. Runs entirely client-side, no external APIs, no AI calls.
