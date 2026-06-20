@@ -9,6 +9,7 @@ Building real projects while still in university.
 - **Instagram Outreach Manager** — Chrome Extension (MV3, Service Workers, Content Scripts)
 - **Load Shedding Scheduler App** — Flutter + Firebase + Push Notifications (Pakistan)
 - **C++ Game Projects** — Metal Slug & Tumblepop clones built from scratch and Hotline Miami Passion Project In The Back
+-- **📅 Planning a Pakistan/student-focused productivity & scheduling app** (post-S3)
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
