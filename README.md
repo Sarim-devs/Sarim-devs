@@ -19,10 +19,25 @@ Building real projects while still in university.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-## 📌 Featured Project
+
+## 📌 Featured Projects
+
 ### [Metal Slug Clone — C++](https://github.com/Sarim-devs/metal-slug-cpp)
-2D side-scrolling action game built from scratch in C++ with SFML.  
+2D side-scrolling action game built from scratch in C++ with SFML.
 Enemy AI, Boss AI, terrain generation, in-game dev terminal, full audio.
+
+### Lead Discovery Engine — Chrome Extension
+A local-first prospect research tool — a Manifest V3 Chrome extension under 1MB
+with a built-in CRM dashboard, a five-dimension relevance scoring engine, and
+CSV/Markdown export. Runs entirely client-side, no external APIs, no AI calls.
+
+**Highlights:**
+- Multi-pass data extraction with cascading fallback strategies
+- Quota-aware local storage layer with merge logic that prevents partial reads
+  from overwriting good saved data
+- Full CRM workflow — status pipeline, filtering, notes, CSV round-trip
+
+*Source is private — happy to walk through the code or share access on request.*
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarimdev)
