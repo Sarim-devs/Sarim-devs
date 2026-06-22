@@ -8,7 +8,7 @@ Building real projects while still in university.
 ## 🔨 What I'm Currently Building
 - **Lead Discovery Engine** — Chrome Extension (MV3, Service Workers, Content Scripts)
 - **Load Shedding Scheduler App** — Flutter + Firebase + Push Notifications (Pakistan)
-- **C++ Game Projects** — Metal Slug & Tumblepop clones built from scratch and Hotline Miami Passion Project In The Back
+- **C++ Game Projects** — Metal Slug & Tumblepop clones built from scratch and Project Carl (HM-inspired) in active development.
 - **📅 Planning a Pakistan/student-focused productivity & scheduling app** (post-S3)
 
 ## 🛠️ Tech Stack
